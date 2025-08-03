@@ -60,7 +60,7 @@ useCallback	Memoize callback functions	Performance optimization
 (Replace this with your actual deployed URL)
 
 📸 Screenshots
-<p align="center"> <img src="screenshots/useState-demo.png" alt="useState Demo" width="600" /> <br/> <em>Simple counter using <code>useState</code></em> </p> <p align="center"> <img src="screenshots/useEffect-demo.png" alt="useEffect Demo" width="600" /> <br/> <em>API call on component mount using <code>useEffect</code></em> </p>
+<img width="1919" height="962" alt="Image" src="https://github.com/user-attachments/assets/717c2ca6-c01b-4907-9804-952e87a6242b" />
 🤝 Contributing
 Contributions are welcome!
 
