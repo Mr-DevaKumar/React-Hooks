@@ -61,6 +61,7 @@ useCallback	Memoize callback functions	Performance optimization
 
 📸 Screenshots
 <img width="1919" height="962" alt="Image" src="https://github.com/user-attachments/assets/717c2ca6-c01b-4907-9804-952e87a6242b" />
+<img width="1919" height="963" alt="Image" src="https://github.com/user-attachments/assets/e29dbd21-05db-41da-a5f8-aaa917b3c58b" />
 🤝 Contributing
 Contributions are welcome!
 
