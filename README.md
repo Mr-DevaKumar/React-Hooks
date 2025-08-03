@@ -8,13 +8,12 @@ Welcome to the **React Hooks Playground**, a beginner-friendly project designed 
 
 This project aims to:
 
-- Teach core **React Hooks** (`useState`, `useEffect`, `useContext`, `useReducer`, `useRef`, `useMemo`, `useCallback`)
+- Teach core **React Hooks** (`useState`, `useEffect`, `useContext`, `useReducer`, `useRef`)
 - Provide **real-time and relatable use-case examples** for each hook
 - Demonstrate **modular and scalable folder structure**
 - Use **TypeScript** to encourage best coding practices
 - Style everything with **TailwindCSS** for a responsive and modern UI
 
----
 
 ## 🔧 Tech Stack
 
@@ -25,35 +24,6 @@ This project aims to:
 | 🎨 TailwindCSS| Utility-first CSS framework                  |
 | ⚡ Vite       | Next-gen frontend tooling (fast dev server)  |
 
----
-
-## 📁 Folder Structure
-
-src/
-│
-├── hooks/ # Custom hook demo components
-│ ├── useStateDemo.tsx
-│ ├── useEffectDemo.tsx
-│ ├── useRefDemo.tsx
-│ ├── useContextDemo.tsx
-│ ├── useReducerDemo.tsx
-│ └── ...
-│
-├── components/ # Reusable UI components (e.g., Header, Card)
-│
-├── context/ # Context and provider definitions
-│
-├── pages/ # Individual pages/routes for each hook demo
-│
-├── App.tsx # Main app layout and routing
-├── main.tsx # Entry point
-└── index.css # Tailwind base styles
-
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Installation
 
